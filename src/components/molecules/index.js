@@ -8,6 +8,7 @@ import List from './List'
 import ListHospital from './ListHospital'
 import ChatItem from './ChatItem'
 import Profile from './Profile'
+import Loading from './Loading'
 
 export {
   Header, 
@@ -19,5 +20,6 @@ export {
   List,
   ListHospital,
   ChatItem,
-  Profile
+  Profile,
+  Loading
 }
